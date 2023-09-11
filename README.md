@@ -6,10 +6,10 @@ Description of the General Functionality Needed
 
 1.	Present an API interface for Strange Matter.
 2.	Methods – Create   (Payload Independent using JSON-LD for Definition from File)
-  a.	Create Collection
-    i.	Add Components to a Collection
-    ii.	Add Relationship to Components in Collection
-  b.	Write Components to Disk
+  a.	Create Collection 
+    i.	Add Components to a Collection 
+    ii.	Add Relationship to Components in Collection 
+  b.	Write Components to Disk 
     i.	This would be file system storage as a start, but this would eventually want to be abstracted so it could be written to a database, Blog Storage, whatever. 
   c.	Write Collection to Disk… 
 3.	Methods - Read
