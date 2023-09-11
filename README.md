@@ -5,7 +5,7 @@ Description of the General Functionality Needed
 ## Base Library
 
 1.	Present an API interface for Strange Matter.
-2.	Methods – Create   (Payload Independent using JSON-LD for Definition from File) 
+2.	Methods – Create   (Payload Independent using JSON-LD for Definition from File)
   a.	Create Collection 
     i.	Add Components to a Collection 
     ii.	Add Relationship to Components in Collection 
