@@ -1,5 +1,7 @@
 # strangematter_csharp
 
+Description of the General Functionality Needed
+
 ## Base Library
 
 1.	Present an API interface for Strange Matter.
